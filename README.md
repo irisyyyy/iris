@@ -2,4 +2,4 @@
  fun stuff with the iris dataset
 - visualization
 - logistic regression
-- decision tree
+
